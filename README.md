@@ -1,1 +1,1 @@
-### example-notebooks for pharmsciforum showing how the same code can be used in different languages
+#### example-notebooks for pharmsciforum showing how the idea can be coded and deployed as Jupyter notebooks in different languages
